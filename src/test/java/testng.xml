@@ -1,0 +1,8 @@
+<suite name="Suite1">
+    <test name="Executor Test">
+        <classes>
+            <class name="StudentCheckerImplExecutorTest"/>
+            <class name="ValidatorImplTest"/>
+        </classes>
+    </test>
+</suite>
